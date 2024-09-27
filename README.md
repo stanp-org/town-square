@@ -2,7 +2,7 @@
 
 A curated list of **public** resources about stateful protocol analysis.
 
-There is a mailing list for discussions and events on stateful protocol analysis available at: stanp[at]groupes.renater.fr
+There is a mailing list for discussions and events on stateful protocol analysis available at [https://groupes.renater.fr/sympa/info/stanp](https://groupes.renater.fr/sympa/info/stanp).
 
 This indexes various topics related to the analysis of stateful protocol including:
 - Stateful Fuzzing

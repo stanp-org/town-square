@@ -4,18 +4,26 @@
 
 * [Protocol State Fuzzing of TLS Implementations, Joeri de Ruiter, Erik Poll (USENIX Sec' 2015) ](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-de-ruiter.pdf),
   * **Code**: [https://github.com/jderuiter/statelearner](https://github.com/jderuiter/statelearner)
+  * **Models**: [http://www.cs.ru.nl/~joeri/download/usenix15.zip](http://www.cs.ru.nl/~joeri/download/usenix15.zip)
 
 * [Learning-based testing the sliding window behavior of TCP implementation, (FMICS'2017)](https://paulfiterau.github.io/publications/2017-FMICS.pdf)
   * **Description**: SL* on TCP implementation modeled as Register Automata
   * **Code**: [https://gitlab.science.ru.nl/pfiteraubrostean/tcp-learner](https://gitlab.science.ru.nl/pfiteraubrostean/tcp-learner)
 
 * [Model Learning and Model Checking of SSH Implementations (SPIN'2017)](https://paulfiterau.github.io/publications/2017-SPIN.pdf)
+  * **Models**: [https://gitlab.science.ru.nl/pfiteraubrostean/Learning-SSH-Paper/tree/master/models](https://gitlab.science.ru.nl/pfiteraubrostean/Learning-SSH-Paper/tree/master/models)
+
 
 * [Extending Automated Protocol State Learning for the 802.11 4-Way Handshake, Chris McMahon Stone, Tom Chothia, Joeri de Ruiter (ESORICS'2018)](https://www.cs.bham.ac.uk//~tpc/Papers/WPAlearning.pdf)
   * **Description**: Inference of WPA2 state machine with timers
 
 * [Prognosis: Closed-Box Analysis of Network Protocol Implementations, T. Ferreira, H. Brewton, L. D’Antoni, A. Silva (SIGCOMM'2021)](https://arxiv.org/pdf/2201.02577)
   * **Description**: Inference of TCP & QUIC
+
+* [Automated state machine learning of IPsec implementations, Bart Veldhuizen, Bachelor thesis, Radboud University Nijmegen, 2017](http://www.cs.ru.nl/bachelors-theses/2017/Bart_Veldhuizen___4492765___Automated_state_machine_learning_of_IPsec_implementations.pdf)
+
+* [Inferring OpenVPN State Machines Using Protocol State Fuzzing, Lesly-Ann Daniel, Joeri de Ruiter, Erik Poll (SPIDA'2018)](https://leslyann-daniel.fr/ressources/papers/2018_spida.pdf)
+  * **Code**: [https://framagit.org/leslyann/statelearner](https://framagit.org/leslyann/statelearner)
 
 * [Towards a systematic and automatic use of state machine inference to uncover security flaws and fingerprint TLS stacks, Aina Toky Rasoamanana, Olivier Levillain, Hervé Debar (ESORICS'2022)](https://hal.science/hal-03997060)
   * **Code**: [https://gitlab.com/gaspians/pylstar-tls](https://gitlab.com/gaspians/pylstar-tls)

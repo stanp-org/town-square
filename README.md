@@ -12,7 +12,12 @@ This indexes various topics related to the analysis of stateful protocol includi
 ## Table of Contents
 
 - [Tools](tools.md)
-- [Papers](papers.md)
+- [Network Protocol Analysis papers](papers.md)
+- [Foundational Work, algorithms](foundations.md)
 - [Books](books.md)
+
+## Related resources
+
 - [Automata Wiki](https://automata.cs.ru.nl/)
+- [A Quick Survey of Active Automata Learning](https://github.com/wcventure/Active-Automata-Learning?tab=readme-ov-file)
 
